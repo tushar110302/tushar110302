@@ -13,11 +13,11 @@
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+<!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Node.js, a powerful JavaScript web framework.
-  - Diving into MongoDB for efficient and scalable database management.
+  - Diving into MongoDB for efficient and scalable database management.  -->
 
 ## 📬 Get in Touch
 <p align="left">
