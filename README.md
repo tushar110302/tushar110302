@@ -28,7 +28,7 @@
 <a href="https://discord.gg/969259977640390687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="969259977640390687" height="50" width="50" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tushar110302&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
