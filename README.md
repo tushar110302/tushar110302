@@ -5,7 +5,7 @@
 
 - 🔭 Previous Intern at Evertz
 - 📝 Bachelors of Engineering in Information Technology (2024)
-- 🌱 Went to Nitte Meenakshi Institute of Technology, Bengaluru
+- 🌱 Nitte Meenakshi Institute of Technology, Bengaluru
 
 ## 💻 Tech Stack
 [![](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,express,nodejs,react,linux,mongodb,mysql,spring,git,github,vscode,postman,idea,windows,latex)]()
