@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Ranjan</h1>
 <h2 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar110302&label=Profile%20views&color=0e75b6&style=flat" alt="tushar110302" /> </p>
+
 
 
 ## 🚀 About Me
@@ -35,9 +35,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tushar110302&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-
-[![](https://visitcount.itsvg.in/api?id=tushar110302&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=tushar110302&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
