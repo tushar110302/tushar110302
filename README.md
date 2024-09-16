@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Ranjan</h1>
 <h2 align="center">A passionate Software Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar110302&label=Profile%20views&color=0e75b6&style=flat" alt="tushar110302" /> </p>
+
+
 ## 🚀 About Me
 
 - 🔭 Previous Intern at Evertz
