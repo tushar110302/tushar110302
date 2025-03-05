@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Ranjan</h1>
-<h2 align="center">A Passionate FullStack Developer</h3>
+<h2 align="center">A Full Stack Developer</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1"> -->
 
