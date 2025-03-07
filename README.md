@@ -26,9 +26,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-ranjan-1b033a250" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tushar-ranjan" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/tushar0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar-ranjan" height="50" width="50" /></a>
-
 <a href="https://www.geeksforgeeks.org/user/thrrnjn1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thrrnjn1103" height="50" width="50" /></a>
-
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true) <br/>
