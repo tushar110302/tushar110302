@@ -60,7 +60,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar110302&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=tushar110302&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=tushar110302&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in) -->
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
