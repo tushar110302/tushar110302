@@ -32,13 +32,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- -->
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
+-->
 <!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
