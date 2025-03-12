@@ -36,7 +36,6 @@
 
 
 <!-- 
-## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
 -->
