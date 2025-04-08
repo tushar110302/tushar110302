@@ -52,7 +52,8 @@
 <a href="https://www.geeksforgeeks.org/user/thrrnjn1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thrrnjn1103" height="50" width="50" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true) <br/>
+<!--
+![](https://github-readme-stats.vercel.app/api?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true) <br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar110302&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar110302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
